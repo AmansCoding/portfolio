@@ -1,0 +1,1092 @@
+/* @media (max-width: 1450px) {
+  .CMH::after {
+    width: 7%;
+    left: 38%;
+  }
+}
+@media (max-width: 1390px) {
+  .CMH::after {
+    width: 6%;
+    left: 40%;
+  }
+} */
+
+@media (max-width: 1200px) {
+  .getstartedbtn,
+  .learnmorebtn4,
+  .advance-welPara,
+  .introdes,
+  .project-about {
+    font-size: 1em;
+  }
+
+  .learnmorebtn3 {
+    width: 32%;
+  }
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 42%;
+  }
+
+  .learnmore5,
+  .learnmorebtn2 {
+    width: 60%;
+    font-size: 1em;
+  }
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 1.5em;
+  }
+  /* .CMH::after {
+    width: 6%;
+    left: 36%;
+  } */
+  .c-method1,
+  .section-des {
+    font-size: 1.2em;
+  }
+  .section-get-h,
+  .second-sh,
+  .first-sh,
+  .introheading {
+    font-size: 2em;
+  }
+  .second-section-heading::after {
+    width: 19%;
+    left: 40.5%;
+  }
+  .first-section-heading::after {
+    width: 26%;
+    left: 37%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 8% 3%;
+    font-size: 1em;
+  }
+
+  .intro-learnmoreBtn {
+    width: 25%;
+  }
+  .nav {
+    font-size: 1em;
+  }
+  .learnmorebtn3 {
+    padding: 2%;
+  }
+  .intro-learnmoreBtn {
+    width: 22%;
+  }
+  .project-name {
+    font-size: 1.45em;
+  }
+  .developer-link {
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 1100px) {
+  /* .CMH::after {
+    width: 6%;
+    left: 40%;
+  } */
+
+  .learnmorebtn2 {
+    padding: 6% 2.5%;
+    font-size: 0.9em;
+  }
+  .intro-learnmoreBtn {
+    width: 25%;
+  }
+
+  .intro-learnmore {
+    width: 100%;
+    padding: 6% 2%;
+    font-size: 0.9em;
+  }
+
+  .intro-learnmoreBtn {
+    width: 28%;
+  }
+
+  .webheading {
+    font-size: 3.5em;
+  }
+  .headingdes {
+    font-size: 1.1em;
+  }
+  .getstartedbtn,
+  .learnmorebtn4,
+  .advance-welPara,
+  .introdes,
+  .learnmorebtn3,
+  .project-about {
+    font-size: 0.9em;
+  }
+  .learnmorebtn2 {
+    padding: 2% 1%;
+    width: 50%;
+  }
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 43.5%;
+  }
+  .headingdes {
+    width: 52%;
+  }
+  .project-name {
+    font-size: 1.35em;
+  }
+  .developer-link {
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 1000px) {
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 44%;
+    padding: 3%;
+  }
+  /* .CMH::after {
+    width: 6%;
+    left: 42%;
+  } */
+  /* .review {
+    font-size: 0.9em;
+  } */
+  .headingdes {
+    width: 54%;
+  }
+  .section-des,
+  .c-method1 {
+    font-size: 1.1em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 1.4em;
+  }
+
+  .webheading {
+    font-size: 3.2em;
+  }
+  .rating-des {
+    font-size: 1.1em;
+  }
+
+  .project-name {
+    font-size: 1.3em;
+  }
+  .developer-link {
+    font-size: 1.3em;
+  }
+}
+
+@media (max-width: 960px) {
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 45%;
+    padding: 3%;
+    font-size: 0.8em;
+  }
+  /* .CMH::after {
+    width: 6%;
+    left: 42%;
+  } */
+  .intro-learnmore,
+  .learnmorebtn2 {
+    padding: 6% 2.5%;
+    font-size: 0.8em;
+  }
+  .intro-learnmoreBtn {
+    width: 26%;
+  }
+
+  .headingdes {
+    font-size: 1em;
+  }
+  .getstartedbtn,
+  .learnmorebtn4,
+  .learnmore5,
+  .introdes,
+  .learnmorebtn3,
+  .project-about {
+    font-size: 0.8em;
+  }
+  .learnmorebtn2 {
+    padding: 2% 1%;
+    width: 50%;
+  }
+  /* .review {
+    font-size: 0.8em;
+  } */
+  .headingdes {
+    width: 60%;
+  }
+  .contact-m-details {
+    font-size: 1em;
+  }
+  .section-get-h,
+  .second-sh,
+  .first-sh,
+  .introheading {
+    font-size: 1.8em;
+  }
+
+  .second-section-heading::after {
+    width: 21%;
+    left: 39.5%;
+  }
+  .first-section-heading::after {
+    width: 28%;
+    left: 36%;
+  }
+  .section-get-heading::after {
+    width: 30%;
+    left: 35%;
+  }
+  .section-des,
+  .c-method1 {
+    font-size: 1.1em;
+  }
+  .nav {
+    font-size: 0.9em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 1.3em;
+  }
+
+  .webheading {
+    font-size: 3em;
+  }
+
+  .project-name {
+    font-size: 1.2em;
+  }
+  .developer-link {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 940px) {
+  .contact-m-details {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 845px) {
+  .contact-m-details {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 775px) {
+  .contact-m-details {
+    font-size: 0.75em;
+  }
+
+  .intro-learnmore {
+    width: 100%;
+    padding: 6% 2%;
+  }
+
+  .section-get-h,
+  .second-sh,
+  .first-sh,
+  .introheading {
+    font-size: 1.5em;
+  }
+  .nav {
+    font-size: 0.8em;
+  }
+  .getstartedbtn,
+  .learnmorebtn4,
+  .learnmore5,
+  .introdes,
+  .learnmorebtn3,
+  .project-about,
+  .advance-welPara {
+    font-size: 0.7em;
+  }
+  .learnmorebtn2 {
+    padding: 1.5% 0.81%;
+    width: 50%;
+  }
+  /* .review {
+    font-size: 0.8em;
+  } */
+  .second-sd {
+    font-size: 0.9em;
+  }
+  .section-des,
+  .c-method1 {
+    font-size: 1em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 1.2em;
+  }
+  .webheading {
+    font-size: 2.9em;
+  }
+  .rating-des {
+    font-size: 1em;
+  }
+  .project-name {
+    font-size: 1.18em;
+  }
+
+  .developer-link {
+    font-size: 1.1em;
+  }
+}
+
+@media (max-width: 680px) {
+  .contact-m-details {
+    font-size: 0.7em;
+  }
+
+  .section-get-h,
+  .second-sh,
+  .first-sh,
+  .introheading {
+    font-size: 1.2em;
+  }
+  .nav {
+    font-size: 0.7em;
+  }
+  .getstartedbtn,
+  .learnmorebtn4,
+  .learnmore5,
+  .introdes,
+  .learnmorebtn3,
+  .project-about,
+  .advance-welPara {
+    font-size: 0.6em;
+  }
+  .learnmorebtn2 {
+    padding: 1.5% 0.81%;
+    width: 55%;
+  }
+  /* .review {
+    font-size: 0.65em;
+  } */
+  .second-sd {
+    font-size: 0.8em;
+  }
+  .section-des,
+  .c-method1,
+  .rating-des {
+    font-size: 0.9em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 1.1em;
+  }
+
+  .intro-learnmore {
+    width: 100%;
+    padding: 5% 1.5%;
+    font-size: 0.7em;
+  }
+
+  .intro-learnmoreBtn {
+    width: 28%;
+  }
+
+  .learnmorebtn2 {
+    padding: 4% 2%;
+    font-size: 0.7em;
+  }
+
+  .headingdes {
+    width: 70%;
+    font-size: 0.9em;
+  }
+  .webheading {
+    font-size: 2.8em;
+  }
+  .project-name {
+    font-size: 1.15em;
+  }
+  .developer-link {
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 589px) {
+  .contact-m-details {
+    font-size: 0.6em;
+  }
+
+  .section-get-h,
+  .second-sh,
+  .first-sh,
+  .introheading {
+    font-size: 1em;
+  }
+  .nav {
+    font-size: 0.5em;
+  }
+  .getstartedbtn,
+  .learnmorebtn4,
+  .learnmore5,
+  .introdes,
+  .learnmorebtn3,
+  .project-about,
+  .advance-welPara {
+    font-size: 0.6em;
+  }
+  .learnmorebtn2 {
+    padding: 2% 1%;
+    width: 56%;
+  }
+  /* .review {
+    font-size: 0.5em;
+  } */
+  .second-sd {
+    font-size: 0.65em;
+  }
+  .section-des,
+  .c-method1,
+  .rating-des {
+    font-size: 0.75em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 0.9em;
+  }
+
+  .learnmorebtn2 {
+    width: 100%;
+    padding: 4% 2%;
+    font-size: 0.6em;
+  }
+  .intro-learnmoreBtn {
+    width: 40%;
+    padding: 0%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 4% auto;
+    font-size: 0.6em;
+  }
+
+  .headingdes {
+    width: 70%;
+    font-size: 0.7em;
+  }
+  .webheading {
+    font-size: 2.4em;
+  }
+  .project-name {
+    font-size: 1.05em;
+  }
+
+  .learnmorebtn3 {
+    width: 60%;
+    padding: 2%;
+  }
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 60%;
+    padding: 0.5%;
+  }
+
+  .learnmore5 {
+    width: 80%;
+    padding: 0.5%;
+  }
+  .social-link {
+    width: 15%;
+    padding: 0 0.5%;
+  }
+  .link-logo1,
+  .link-logo2,
+  .link-logo3,
+  .link-logo4 {
+    width: 80%;
+  }
+
+  .project-collection {
+    width: 90%;
+    margin: 4% auto;
+    padding: 2%;
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+
+  .get-started-btns {
+    width: 80%;
+    margin: 4% auto 2% auto;
+    padding: 1%;
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .introduction {
+    width: 100%;
+    padding: 5%;
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #fff;
+    border-bottom: 2px solid gray;
+  }
+  .img1 {
+    width: 75%;
+    border: 10px solid #dddddd;
+    border-radius: 50%;
+  }
+  .img1 {
+    border: 3px solid #dddddd;
+  }
+  .developer-link {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 426px) {
+  .contact-m-details {
+    font-size: 0.8em;
+  }
+
+  .section-get-h,
+  .second-sh,
+  .first-sh,
+  .introheading {
+    font-size: 2em;
+  }
+  .nav {
+    font-size: 0.35em;
+  }
+  .getstartedbtn,
+  .learnmorebtn4,
+  .learnmore5,
+  .learnmorebtn3 {
+    font-size: 1em;
+  }
+
+  .introdes,
+  .project-about,
+  .advance-welPara {
+    font-size: 1em;
+  }
+  .learnmorebtn2 {
+    padding: 1% 0.6%;
+    width: 60%;
+  }
+  /* .review {
+    font-size: 0.6em;
+  } */
+  .second-sd {
+    font-size: 0.8em;
+  }
+  .section-des,
+  .c-method1,
+  .rating-des {
+    font-size: 1em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople {
+    font-size: 1em;
+  }
+
+  .learnmorebtn2 {
+    width: 61%;
+    padding: 1.8% 0.8%;
+    font-size: 0.8em;
+  }
+  .intro-learnmoreBtn {
+    width: 80%;
+    padding: 0%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 3.5% auto;
+    font-size: 1em;
+  }
+  .headingdes {
+    width: 100%;
+    font-size: 1em;
+  }
+  .webheading {
+    font-size: 2.2em;
+  }
+  .project-name {
+    font-size: 1em;
+  }
+  .section-learnmorebtn3 {
+    width: 90%;
+  }
+
+  .learnmorebtn3 {
+    width: 100%;
+    padding: 3.5% 0;
+  }
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 100%;
+    padding: 3.5% 0;
+  }
+  .section-learnmorebtn2 {
+    width: 90%;
+  }
+  .learnmorebtn2 {
+    width: 100%;
+    padding: 3.5% 0;
+    font-size: 1em;
+  }
+  .learnmore5 {
+    width: 100%;
+    padding: 3% 0%;
+    font-size: 1em;
+  }
+  .social-link {
+    width: 14%;
+    padding: 0 0.3%;
+  }
+  .link-logo1,
+  .link-logo2,
+  .link-logo3,
+  .link-logo4 {
+    width: 85%;
+  }
+
+  .project-collection {
+    width: 90%;
+    margin: 4% auto;
+    padding: 2%;
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .container {
+    width: 100%;
+    margin: 5% auto;
+    padding: 2%;
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .ratings {
+    width: 75%;
+    padding: 2%;
+    margin: 1% auto;
+    border: 2px solid transparent;
+    border-radius: 16px;
+  }
+
+  .rating-img {
+    margin: 1% auto;
+  }
+
+  .numberOFPeoople {
+    margin: 1% auto;
+    padding: 0.5%;
+  }
+  .rating-des {
+    margin: 1% auto;
+  }
+
+  .footer {
+    grid-template-columns: auto;
+  }
+  .img1 {
+    border: 2.5px solid #dddddd;
+  }
+  .developer-link {
+    font-size: 0.7em;
+  }
+}
+@media (max-width: 376px) {
+  .contact-m-details {
+    font-size: 0.7em;
+  }
+}
+
+@media (max-width: 367px) {
+  .webheading {
+    font-size: 2em;
+  }
+  .headingdes {
+    font-size: 0.9em;
+  }
+  .introheading,
+  .first-sh,
+  .second-sh,
+  .section-get-h {
+    font-size: 1.5em;
+  }
+  .introdes,
+  .project-about,
+  .second-sd,
+  .section-des {
+    font-size: 0.8em;
+  }
+
+  .learnmorebtn3 {
+    width: 60%;
+    padding: 3.5% 0;
+    font-size: 0.8em;
+  }
+
+  .learnmorebtn2 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.8em;
+  }
+  .learnmore5 {
+    width: 80%;
+    padding: 3% 0%;
+    font-size: 0.7em;
+  }
+
+  .learnmorebtn2 {
+    width: 56%;
+    padding: 2% 1%;
+    font-size: 0.8em;
+  }
+  .intro-learnmoreBtn {
+    width: 60%;
+    padding: 0%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 3.5% auto;
+    font-size: 0.8em;
+  }
+
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.8em;
+  }
+
+  .project-name {
+    font-size: 1em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople,
+  .rating-des {
+    font-size: 0.9em;
+  }
+  .advance-welPara {
+    font-size: 0.8em;
+  }
+
+  .c-method1 {
+    font-size: 0.9em;
+  }
+  .contact-m-details {
+    font-size: 0.7em;
+  }
+
+  .review {
+    font-size: 0.5em;
+  }
+  .img1 {
+    border: 2.2px solid #dddddd;
+  }
+  .developer-link {
+    font-size: 0.7em;
+  }
+}
+
+@media (max-width: 330px) {
+  .contact-m-details {
+    font-size: 0.6em;
+  }
+  .img1 {
+    border: 2px solid #dddddd;
+  }
+}
+
+@media (max-width: 286px) {
+  .webheading {
+    font-size: 1.9em;
+  }
+  .headingdes {
+    font-size: 0.7em;
+  }
+  .introheading,
+  .first-sh,
+  .second-sh,
+  .section-get-h {
+    font-size: 1.2em;
+  }
+  .introdes,
+  .project-about,
+  .second-sd,
+  .section-des {
+    font-size: 0.65em;
+  }
+
+  .learnmorebtn3 {
+    width: 60%;
+    padding: 3.5% 0;
+    font-size: 0.65em;
+  }
+
+  .learnmorebtn2 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.65em;
+  }
+  .learnmore5 {
+    width: 80%;
+    padding: 3% 0%;
+    font-size: 0.65em;
+  }
+
+  .learnmorebtn2 {
+    width: 56%;
+    padding: 2% 1%;
+    font-size: 0.65em;
+  }
+  .intro-learnmoreBtn {
+    width: 60%;
+    padding: 0%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 3.5% auto;
+    font-size: 0.65em;
+  }
+
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.65em;
+  }
+
+  .project-name {
+    font-size: 0.8em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople,
+  .rating-des {
+    font-size: 0.75em;
+  }
+  .advance-welPara {
+    font-size: 0.65em;
+  }
+
+  .c-method1 {
+    font-size: 0.75em;
+  }
+  .contact-m-details {
+    font-size: 0.55em;
+  }
+  .review {
+    font-size: 0.35em;
+  }
+  .img1 {
+    border: 1.5px solid #dddddd;
+  }
+  .developer-link {
+    font-size: 0.55em;
+  }
+}
+
+@media (max-width: 259px) {
+  .webheading {
+    font-size: 1.5em;
+  }
+  .headingdes {
+    font-size: 0.4em;
+  }
+  .introheading,
+  .first-sh,
+  .second-sh,
+  .section-get-h {
+    font-size: 0.8em;
+  }
+  .introdes,
+  .project-about,
+  .second-sd,
+  .section-des {
+    font-size: 0.35em;
+  }
+
+  .learnmorebtn3 {
+    width: 60%;
+    padding: 3.5% 0;
+    font-size: 0.35em;
+  }
+
+  .learnmorebtn2 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.35em;
+  }
+  .learnmore5 {
+    width: 80%;
+    padding: 3% 0%;
+    font-size: 0.35em;
+  }
+
+  .learnmorebtn2 {
+    width: 56%;
+    padding: 2% 1%;
+    font-size: 0.35em;
+  }
+  .intro-learnmoreBtn {
+    width: 60%;
+    padding: 0%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 3.5% auto;
+    font-size: 0.35em;
+  }
+
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.35em;
+  }
+
+  .project-name {
+    font-size: 0.5em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople,
+  .rating-des {
+    font-size: 0.4em;
+  }
+  .advance-welPara {
+    font-size: 0.35em;
+  }
+
+  .c-method1 {
+    font-size: 0.4em;
+  }
+  .contact-m-details {
+    font-size: 0.2em;
+  }
+
+  .review {
+    font-size: 0.15em;
+  }
+  .img1 {
+    border: 1px solid #dddddd;
+  }
+  .developer-link {
+    font-size: 0.5em;
+  }
+}
+
+@media (max-width: 148px) {
+  .webheading {
+    font-size: 1.2em;
+  }
+  .headingdes {
+    font-size: 0.1em;
+  }
+  .introheading,
+  .first-sh,
+  .second-sh,
+  .section-get-h {
+    font-size: 0.4em;
+  }
+  .introdes,
+  .project-about,
+  .second-sd,
+  .section-des {
+    font-size: 0.15em;
+  }
+
+  .learnmorebtn3 {
+    width: 60%;
+    padding: 3.5% 0;
+    font-size: 0.15em;
+  }
+
+  .learnmorebtn2 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.15em;
+  }
+  .learnmore5 {
+    width: 80%;
+    padding: 3% 0%;
+    font-size: 0.15em;
+  }
+
+  .learnmorebtn2 {
+    width: 56%;
+    padding: 2% 1%;
+    font-size: 0.15em;
+  }
+  .intro-learnmoreBtn {
+    width: 60%;
+    padding: 0%;
+  }
+  .intro-learnmore {
+    width: 100%;
+    padding: 3.5% auto;
+    font-size: 0.15em;
+  }
+
+  .getstartedbtn,
+  .learnmorebtn4 {
+    width: 80%;
+    padding: 3.5% 0;
+    font-size: 0.15em;
+  }
+
+  .project-name {
+    font-size: 0.1em;
+  }
+
+  .advance-head,
+  .CMH,
+  .numberOFPeoople,
+  .rating-des {
+    font-size: 0.1em;
+  }
+  .advance-welPara {
+    font-size: 0.15em;
+  }
+
+  .c-method1 {
+    font-size: 0.1em;
+  }
+  .contact-m-details {
+    font-size: 0.05em;
+  }
+
+  .review {
+    font-size: 0.08em;
+  }
+
+  .img1 {
+    border: 0.5px solid #dddddd;
+  }
+  .developer-link {
+    font-size: 0.4em;
+  }
+}
